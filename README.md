@@ -1,6 +1,6 @@
 # 📉 Customer Churn Prediction Using Machine Learning
 
-Welcome to the **Customer Churn Prediction** project! This end-to-end machine learning pipeline identifies customers likely to stop using a service, helping businesses take proactive action.
+Reducing churn by just 5% can increase profits by 25%–95%. This project helps businesses proactively retain at-risk customers by using ML-based churn prediction.
 
 ## 🧠 Project Overview
 
